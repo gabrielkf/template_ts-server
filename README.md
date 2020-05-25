@@ -6,3 +6,4 @@ Template is configured with:
 
 - ESlint (AirBnb pattern)
 - Prettier
+- Debugger (attach mode)
